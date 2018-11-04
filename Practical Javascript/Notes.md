@@ -1,6 +1,7 @@
 ## Lesson 1
 Alert Hello World by pressing a button
 ### Main concepts
+* download visual studio code at https://code.visualstudio.com/download
 * What is html
 * Buttons in html
 * Link javascript file to html

@@ -12,5 +12,5 @@ function sayHello() {
     var greetingString = 'Hello ' + inputName + ' !';
     
     // Set the span text to the derived greeting which is based on the input
-    document.getElementById('outputSpan').innerHTML = greetingString;
+    document.getElementById('outputParagraph').innerHTML = greetingString;
 }
