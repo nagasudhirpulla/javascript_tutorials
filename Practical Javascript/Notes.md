@@ -39,7 +39,7 @@ Show Hello Name n times in span by pressing a button
 ### Main concepts
 * For loop in javascript
 * Numeric input in javscript
-* Set text value to span element in javascript using for loop
+* Set text value to paragraph element in javascript using for loop
 
 ## Lesson 6
 Append hello name span elements n times in a div
